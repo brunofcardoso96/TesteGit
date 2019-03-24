@@ -1,8 +1,4 @@
-XXXXXXX
-YYY
-ZZZZZ
-ZZZ
 
 AAA
 AA
-Z
+Z1

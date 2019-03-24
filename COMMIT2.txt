@@ -1,7 +1,1 @@
-XXXXXXX
-YYY
-ZZZZZ
-ZZZ
-
-AAA
-AA
+1

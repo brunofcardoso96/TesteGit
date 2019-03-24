@@ -1,13 +1,1 @@
-XXXXXXX
-YYY
-ZZZZZ
-ZZZ
-
-AAA
-AA
-CC
-AAAA
-Z
-Z
-AA
-A
+2
